@@ -1,6 +1,6 @@
 # Quiz
 
-[<img src = "https://repl.it/badge/github/abhijeetsingla/neogcamp-cli-project-2" alt text = "run on repl.it" width = "250"/>](https://repl.it/github/abhijeetsingla/neogcamp-cli-project-2?embed=1&output=1#index.js)
+[<img src = "https://repl.it/badge/github/abhijeetsingla/neogcamp-cli-project-2" alt text = "run on repl.it" width = "250" style = "transform: translateX(80%)"/>](https://repl.it/github/abhijeetsingla/neogcamp-cli-project-2?embed=1&output=1#index.js)
 
 # About
 
