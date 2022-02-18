@@ -10,7 +10,7 @@ If you answer the first three questions correctly, you will be surprised with th
 
 This quiz was made as a part of [neogcamp lesson-1](https://neog.camp/guide/lesson-one) using a service called [repl.it](https://repl.it), which allows users to run CLI apps without much configuration required since it handles that automatically and has a smart IDE.
 
-My repl.it profile - [repl.it/abhijeetsingla](https://repl.it/abhijeetsingla).
+My repl.it profile - [repl.it/@abhijeetsingla](https://repl.it/@abhijeetsingla).
 
 This code demonstrates the use of the following things: 
 - Arrays
